@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Privacy Policy"
-date:   2021-03-09 17:15:00 +0530
 permalink: /privacy-policy
 ---
 This Privacy Policy describes about how we collect, use, store, and share your data.
