@@ -88,20 +88,20 @@ The Firebase data we read is not shared anywhere with any third-party services o
 
 Read [Firebase's Privacy Policy](https://firebase.google.com/support/privacy) and [Google Sheet's Privacy Policy](https://policies.google.com/privacy) about how your data is stored or shared.
 
-## **Your Rights**
+## Your Rights
 
 You have right to access the information we hold. You can ask to update or erase it. Please [write to us](mailto:email@website.com) with your concerns.
 
-## **Data Retention**
+## Data Retention
 
 We will delete Order Information when you wish to delete your account with us.
 
 We will maintain Personal Information for our records except you write to us to delete it.
 
-## **Changes**
+## Changes
 
 We may update this Privacy Policy to reflect our product and operational updates.
 
-## **Contact**
+## Contact
 
 If you have any questions or concerns, please [write to us](mailto:email@website.com).
