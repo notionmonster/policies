@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Privacy Policy"
-permalink: /privacy-policy
+permalink: /privacy
 ---
 This Privacy Policy describes about how we collect, use, store, and share your data.
 
