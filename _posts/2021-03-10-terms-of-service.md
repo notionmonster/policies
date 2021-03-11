@@ -3,7 +3,7 @@ layout: post
 title: "Terms of Service"
 permalink: /terms
 ---
-By placing an order from us, you engage in our service and agree to be bound our Terms of Service. These terms apply to all the users using free plan or subscription based plan. Any new services, features, tools and resources added later on will also be subject to these terms. We will always keep our users updated about changes in these terms.
+By placing an order from us, you engage in our service and agree to be bound by our Terms of Service. These terms apply to all the users using free plan or subscription based plan. Any new services, features, tools and resources added later on will also be subject to these terms. We will always keep our users updated about changes in these terms.
 
 Please read these terms and conditions before accessing our service.
 
