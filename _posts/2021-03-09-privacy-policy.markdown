@@ -58,14 +58,7 @@ The data you give us about your notion pages to make a website out of it.
 
 ### What We Collect
 
-The parameters about your notion page, inside [Google Sheet](https://docs.google.com/spreadsheets/) we provide you to. It is contained into broadly four categories:
-
-It is contained into broadly four categories:
-
-- Page Data
-- Domain Data
-- Monster Codes
-- Code Data
+The parameters about your notion page, inside [Google Sheet](https://docs.google.com/spreadsheets/) we provide you to.
 
 ### Where We Store
 
